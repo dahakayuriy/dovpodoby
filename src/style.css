@@ -209,6 +209,7 @@ body {
   .logo-zone {
     font-size: 48px;
     padding-top: 24px;
+    text-shadow: 0 0 4px #a3bfa4, 0 0 12px #d5e6cf, 1px 1px 0 #222;
   }
 
   .broadcast-links {
@@ -223,6 +224,7 @@ body {
 
   .signal-title {
     font-size: 18px;
+    text-shadow: 0 0 4px #a3bfa4, 0 0 12px #d5e6cf;
   }
 
   .signal-form input,
@@ -233,6 +235,7 @@ body {
 
   .signal-caption {
     font-size: 12px;
+    text-shadow: 0 0 2px #a3bfa4;
   }
 }
 
@@ -241,6 +244,7 @@ body {
   .logo-zone {
     font-size: 36px;
     padding-top: 20px;
+    text-shadow: 0 0 4px #a3bfa4, 0 0 12px #d5e6cf, 1px 1px 0 #222;
   }
 
   .yt-block {
@@ -253,6 +257,7 @@ body {
   .yt-label,
   .yt-hover-text {
     font-size: 14px;
+    text-shadow: 0 0 4px #a3bfa4, 0 0 12px #d5e6cf, 1px 1px 0 #222;
   }
 
   .signal-form input {
@@ -263,5 +268,10 @@ body {
   .signal-form button {
     width: 100%;
     font-size: 14px;
+  }
+
+  .signal-caption {
+    font-size: 12px;
+    text-shadow: 0 0 2px #a3bfa4;
   }
 }
